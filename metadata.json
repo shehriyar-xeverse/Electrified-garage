@@ -1,0 +1,6 @@
+{
+  "name": "The Electrified Garage",
+  "description": "A redesigned modern, premium, fully animated website for The Electrified Garage — the high-end boutique EV service workshop specializing in custom Tesla, Rivian, and Lucid repairs, diagnostics, and retrofits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
